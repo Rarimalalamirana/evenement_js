@@ -45,5 +45,4 @@ document.getElementsByClassName("navbar")[0].addEventListener("dblclick",functio
 			});
 		}
 	}
-	function_name();
 
