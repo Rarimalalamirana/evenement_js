@@ -1,5 +1,5 @@
 <h1>Bienvenue dans mon projet de js:</h1>
-<h3>voici tus les fonctionalites:</h3>
+<h3>voici tous les fonctionalites:</h3>
 <ul>
 	<li>Quand vous cliquer sur le footer il s'affiche "click numero #{numero de votre click}</li>
 	<li>Quand vous cliquer sur l'icone hamburger menu vous verrez le navbar cache</li>
